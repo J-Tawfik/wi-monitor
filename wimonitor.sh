@@ -14,4 +14,7 @@ read interface
 echo  interface selected $interface
 echo your wifi is gonna be changed to monitor mode press enter to continue
 read enter
+airmon-ng start $interface
+echo monitor mode turned on
+read enter
 airodump-ng $interface
