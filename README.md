@@ -9,5 +9,5 @@
 # aircrac-ng installation 
 # for debian or ubuntu:
     sudo apt install aircrack-ng
- for arch linux :
+# for arch linux :
     sudo pacman -Sy aircrack-ng
