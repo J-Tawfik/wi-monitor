@@ -11,3 +11,5 @@
     sudo apt install aircrack-ng
 # for arch linux :
     sudo pacman -Sy aircrack-ng
+# installation 
+    sudo git clone https://github.com/J-Tawfik/wi-monitor/
