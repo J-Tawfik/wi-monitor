@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2206d585-e4a6-42c2-aa77-2d35b6638451)
+
 # wi-monitor
 # requirements
 #for arch 
